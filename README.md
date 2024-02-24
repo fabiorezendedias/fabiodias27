@@ -1,9 +1,11 @@
 <div align="center">
-<h2> Hi, I'm Fábio. Welcome to my Profile! <h2>
+<h2> Olá, sou Fábio. Bem-vindo(a) ao meu perfil! Tenho experiência profissional como product manager e, agora, focado em desenvolvimento front-end. <h2>
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Fabio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Fabio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Fabio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg">
+  <img align="center" alt="Fabio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg">
 </div>
 
 <br>
