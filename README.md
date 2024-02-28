@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Olá, sou Fábio. Bem-vindo(a) ao meu perfil! Tenho experiência profissional como product manager e, agora, focado em desenvolvimento front-end. <h2>
+<h2> Olá, sou Fábio. Bem-vindo(a) ao meu perfil! Tenho experiência profissional como product manager e, agora, focado em desenvolvimento de software. <h2>
 </div>
 
 <div align="center" style="display: inline_block"><br>
