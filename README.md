@@ -3,7 +3,7 @@
   <h3> Aluno de Sistemas de informação na PUC Minas, venho me aprofundando em back-end com PHP. </h3>
 </div>
 
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block">
 
   <h3> Principal Stack: </h3>
   <img align="center" alt="Fabio-PHP" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg">
