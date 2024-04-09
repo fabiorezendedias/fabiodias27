@@ -1,12 +1,12 @@
 <div align="center">
-  <h2> Olá! Sou Fábio, possuo experiência profissional como Product Manager e atualmente estou focado em desenvolvimento de software. <h2>
-  <h3> Aluno de Sistemas de informação na PUC Minas, venho me aprofundando em back-end com PHP. </h3>
+  <h2> Olá! Possuo experiência profissional como Product Manager e atualmente estou focado em desenvolvimento de software. <h2>
+  <h3> Aluno de Sistemas de informação na PUC Minas, venho me aprofundando em back-end com C Sharp. </h3>
 </div>
 
 <div align="center" style="display: inline_block">
 
   <h3> Principal Stack: </h3>
-  <img align="center" alt="Fabio-PHP" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg">
+  <img align="center" alt="Fabio-PHP" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-line.svg">
 
   <h3> Stacks secundárias: </h3>  
   <img align="center" alt="Fabio-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg">
