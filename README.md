@@ -1,6 +1,6 @@
 <div align="center">
   <h2> Olá! Possuo experiência profissional como Product Manager e atualmente estou focado em desenvolvimento de software. <h2>
-  <h3> Aluno de Sistemas de informação na PUC Minas, venho me aprofundando em back-end com C Sharp. </h3>
+  <h3> Aluno de Sistemas de informação na PUC Minas. </h3>
 </div>
 
 <div align="center" style="display: inline_block">
