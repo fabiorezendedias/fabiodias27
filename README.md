@@ -1,7 +1,7 @@
 <div align="center" style="display: inline_block">
 
   <h3> Principal Stack: </h3>
-  <img align="center" alt="Fabio-JS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Fabio-JS" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg">
  <img align="center" alt="Fabio-NodeJS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-plain-wordmark.svg">
 
   <h3> Stacks secundárias: </h3>  
