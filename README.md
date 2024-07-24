@@ -1,10 +1,10 @@
 <div align="center" style="display: inline_block">
 
   <h3> Principal Stack: </h3>
- <img align="center" alt="Fabio-Java" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg">
+ <img align="center" alt="Fabio-Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original-wordmark.svg">
 
   <h3> Outras stacks: </h3>  
-  <img align="center" alt="Fabio-SPRING" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Fabio-CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg">
   <img align="center" alt="Fabio-HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg">
 </div>
 
