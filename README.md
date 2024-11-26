@@ -1,8 +1,8 @@
 <div align="center" style="display: inline_block">
 
   <h3> Principal Stack: </h3>
- <img align="center" alt="Fabio-Ruby" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ruby/ruby-plain-wordmark.svg">
- <img align="center" alt="Fabio-Rails" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/rails/rails-plain-wordmark.svg">
+ <img align="center" alt="Fabio-CSharp" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-original.svg">
+ <img align="center" alt="Fabio-DotNet" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/dot-net/dot-net-plain-wordmark.svg">
 
   <h3> Outras stacks: </h3>  
   <img align="center" alt="Fabio-JS" height="35" width="30" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg">
