@@ -1,9 +1,9 @@
 <h2> Welcome, glad to have you here! </h2>
 <h3> My name is Fábio Dias <img align="center" alt="Fabio-CSharp" height="22" width="22" src="https://github.com/user-attachments/assets/046f13d4-8289-4892-820c-ca56f80d63cb"> </h3>
 
-• 👩‍💻 I have been a product manager for 3 years. <br>
+• 👩‍💻 I have been a product manager | product owner for 3 years. <br>
 • 🎓 Studying information systems. <br>
-• 💡 Entrepreneur: focusing on digital retail.
+• 💡 Entrepreneur.
 
 Explore my projects and see how I can help turn your ideas into reality.
 
@@ -15,8 +15,8 @@ Explore my projects and see how I can help turn your ideas into reality.
 <div align="center" style="display: inline_block">
 
   <h3> Main Stacks: </h3>
- <img align="center" alt="Fabio-CSharp" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-original.svg">
- <img align="center" alt="Fabio-DotNet" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/dot-net/dot-net-plain-wordmark.svg">
+ <img align="center" alt="Fabio-python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original-wordmark.svg">
+ <img align="center" alt="Fabio-django" height="80" width="80" src="https://img.icons8.com/ios/50/django.png" alt="django"/">
 
   <h3> Other stacks: </h3>  
   <img align="center" alt="Fabio-JS" height="35" width="30" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg">
