@@ -16,7 +16,6 @@ Explore my projects and see how I can help turn your ideas into reality.
 
   <h3> Main Stacks: </h3>
  <img align="center" alt="Fabio-python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original-wordmark.svg">
- <img align="center" alt="Fabio-django" height="80" width="80" src="https://img.icons8.com/ios/50/django.png" alt="django"/">
 
   <h3> Other stacks: </h3>  
   <img align="center" alt="Fabio-JS" height="35" width="30" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg">
